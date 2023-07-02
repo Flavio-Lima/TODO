@@ -20,10 +20,6 @@ O projeto segue a seguinte estrutura de diretórios:
 
 - `public`: Contém o arquivo HTML principal e outros recursos estáticos.
 
-## Contribuindo
-
-Sinta-se à vontade para contribuir para o desenvolvimento deste projeto. Você pode abrir issues relatando problemas, sugerir melhorias ou enviar pull requests.
-
 ## Recursos
 
 - [React Documentation](https://reactjs.org/docs)
